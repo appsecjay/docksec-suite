@@ -68,6 +68,7 @@ sudo systemctl enable --now docker
 
 # Demo (Debian/Ubuntu/Kali style):
 
+```bash
 └─# ./docksec.sh                 
 ==============================================
            DOCKSEC - FULL SECURITY SCAN
@@ -126,5 +127,4 @@ Falco runtime log   : reports/falco_runtime.log
 
 All images processed and local copies removed.
 ==============================================
-
-
+```
