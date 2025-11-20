@@ -2,7 +2,7 @@
 
 **One-command Docker image security scanner**  
 Runs: **Trivy + Dockle + Falco (runtime)**  
-Author: Armors Security (Champa)
+Author: AppsecJay
 
 ---
 
