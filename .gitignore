@@ -1,0 +1,7 @@
+reports/
+*.log
+*.json
+*.csv
+*.tar
+.DS_Store
+
