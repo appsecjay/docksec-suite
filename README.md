@@ -66,7 +66,7 @@ sudo snap install dockle || echo "Or install dockle via GitHub releases: https:/
 sudo systemctl enable --now docker
 ```
 
-# Demo (Debian/Ubuntu/Kali style):
+## Demo (Debian/Ubuntu/Kali style):
 
 ```bash
 └─# ./docksec.sh                 
