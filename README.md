@@ -128,3 +128,14 @@ Falco runtime log   : reports/falco_runtime.log
 All images processed and local copies removed.
 ==============================================
 ```
+### Input as Single Docker Image
+<img width="1222" height="920" alt="demo_single_docker_image" src="https://github.com/user-attachments/assets/aa5dc60d-e6d7-412b-958e-61907b70d53c" />
+### Input as a Multiple Docker Images
+<img width="1653" height="1030" alt="demo_for_multiple_docker_images_as_input" src="https://github.com/user-attachments/assets/fe15e667-2766-4555-9e15-c4bc9c2f0ea6" />
+### Input as file with multiple docker Images:
+<img width="1661" height="884" alt="demo_with_file_as_input" src="https://github.com/user-attachments/assets/bd84af16-deb2-42fa-8570-429723285048" />
+
+
+
+
+
